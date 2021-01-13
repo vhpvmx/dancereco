@@ -19,7 +19,6 @@ Instructions for deployment:
 2. Build the docker image: sudo docker build -t dancereco:latest .
 3. Execute the app inside the docker container: docker run --detach --publish 5000:5000 dancereco
 4. Verify it works, go to the url: localhost:5000
-Upload to Heroku:
 5. Register in Heroku
 6. In your terminal heroku login
 7. heroku create nombre_app
