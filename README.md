@@ -33,6 +33,12 @@ Instructions for deployment:
 
 * I use $ as a terminal prompt indicator
 
+You can check how the app looks once deployed on heroku in this URL: https://dancereco.herokuapp.com/
+
+Here you can check the development of the DL model: https://github.com/vhpvmx/danceClassifier
+
+Enjoy!
 
 References:
 > https://runnable.com/docker/python/dockerize-your-flask-application
+> https://devcenter.heroku.com/articles/container-registry-and-runtime
