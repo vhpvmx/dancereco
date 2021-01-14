@@ -11,13 +11,17 @@ I used the model resnet18 which was pre-trained on ImageNet (ImageNet contains o
 
 As a result the new model can identify different dance styles in the same picture.
 
+I use python, fastai, flask, javascript, docker and heroku to develop and deploy the app.
+
+You can check how the app looks once deployed on heroku in this URL: https://dancereco.herokuapp.com/
+
+To install and deploy it follow these instructions.
+
 Prepare the environment:
 - Git, follow this instructions to install git: https://docs.docker.com/engine/install/ubuntu/
 - Docker, you can install docker following these instructions: https://docs.docker.com/engine/install/ubuntu/
 - Heroku CLI, here you have the instructions to install heroku cli: https://devcenter.heroku.com/articles/heroku-cli
 
-
-The deployment was done using Flask, Docker and Heroku.
 
 Instructions for deployment:
 
@@ -32,8 +36,6 @@ Instructions for deployment:
 10. Open the app in your browser:  $heroku open
 
 * I use $ as a terminal prompt indicator
-
-You can check how the app looks once deployed on heroku in this URL: https://dancereco.herokuapp.com/
 
 Here you can check the development of the DL model: https://github.com/vhpvmx/danceClassifier
 
