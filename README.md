@@ -38,6 +38,14 @@ Instructions for deployment:
 
 * I use $ as a terminal prompt indicator
 
+I found errors while creating the docker image, you can find out the problem opening an interactive session:
+
+$sudo docker run -it --entrypoint sh dancereco
+
+Then you have a shell, you can list your files, check the content of them or execute the app with this command:
+
+$python app.py
+
 Here you can check the development of the DL model: https://github.com/vhpvmx/danceClassifier
 
 Enjoy!
