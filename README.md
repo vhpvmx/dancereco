@@ -12,9 +12,9 @@ I used the model resnet18 which was pre-trained on ImageNet (ImageNet contains o
 As a result the new model can identify different dance styles in the same picture.
 
 Prepare the environment:
-Git, follow this instructions to install git: https://docs.docker.com/engine/install/ubuntu/
-Docker, you can install docker following these instructions: https://docs.docker.com/engine/install/ubuntu/
-Heroku CLI, here you have the instructions to install heroku cli: https://devcenter.heroku.com/articles/heroku-cli
+- Git, follow this instructions to install git: https://docs.docker.com/engine/install/ubuntu/
+- Docker, you can install docker following these instructions: https://docs.docker.com/engine/install/ubuntu/
+- Heroku CLI, here you have the instructions to install heroku cli: https://devcenter.heroku.com/articles/heroku-cli
 
 
 The deployment was done using Flask, Docker and Heroku.
@@ -31,7 +31,7 @@ Instructions for deployment:
 9. Release the container: $heroku container:release web
 10. Open the app in your browser:  $heroku open
 
-*I use $ as a prompt indicator
+*I use $ as a terminal prompt indicator
 
 
 References:
