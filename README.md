@@ -1,6 +1,7 @@
 # dancereco
 
 You are not sure about your outfit for Saturday night, let's check your style!
+
 Upload a picture to the app, it will recognize the dance style you are dressed for.
 
 Categories: [Salsa, Lindy Hop, Hip Hop]
