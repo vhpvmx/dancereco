@@ -31,8 +31,8 @@ Instructions for deployment:
 9. Release the container: $heroku container:release web
 10. Open the app in your browser:  $heroku open
 
-*I use $ as a terminal prompt indicator
+* I use $ as a terminal prompt indicator
 
 
 References:
-https://runnable.com/docker/python/dockerize-your-flask-application
+> https://runnable.com/docker/python/dockerize-your-flask-application
