@@ -46,7 +46,7 @@ Then you have a shell, you can list your files, check the content of them or exe
 
 $python app.py
 
-Here you can check the development of the DL model: https://github.com/vhpvmx/danceClassifier
+Here you can check the development of the DL model: https://github.com/vhpvmx/danceClassifierModelMulticat 
 
 Enjoy!
 
